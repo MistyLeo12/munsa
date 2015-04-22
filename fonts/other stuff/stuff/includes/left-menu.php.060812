@@ -1,0 +1,11 @@
+	<ul class="submenuoptions">
+
+							<li><a href="/">Home</a></li>
+							<li><a href="about.php">Our Mission</a></li>
+							<li><a href="physicians.php">Our Physicians</a></li>	
+							<li><a href="practiceareas.php">Test </a></li>
+							<li><a href="seeanallergist.php">Why See an Allergist?</a></li>
+							<li><a href="links.php">Helpful Links</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
+	
+						</ul>

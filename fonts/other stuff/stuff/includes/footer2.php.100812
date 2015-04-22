@@ -1,0 +1,26 @@
+<div id="footerdivider"></div>
+
+	<div id="footer">
+
+		<div id="footercontent">
+
+		<ul id="footermenu">
+
+			<li><a href="/">Home</a><span class="divider">|</span></li>
+			<li><a href="about2.php">About</a><span class="divider">|</span></li>
+			<li><a href="venues.php">Venues</a><span class="divider">|</span></li>
+			<li><a href="register.php">Register</a><span class="divider">|</span></li>
+			<li><a href="support.php">Support</a><span class="divider">|</span></li>
+			<li><a href="contact-us.php">Contact Us</a><span class="divider">|</span></li>
+			<li><a href="help.php">Help</a></li>
+
+		</ul>
+
+		<p>Copyright © Model United Nations San Antonio and the International School of the Americas. All rights reserved.</p>
+
+		<p>Header image: <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a> &nbsp;<a href="http://www.flickr.com/photos/nicmcphee/4283634327/" target="_blank">Sunset at the Buffalo Ridge wind farm</a> by <a href="http://www.flickr.com/photos/nicmcphee/" target="_blank">Unhindered by Talent</a></p>
+
+		</div>
+
+	</div>
+

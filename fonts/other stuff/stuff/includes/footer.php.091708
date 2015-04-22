@@ -1,0 +1,24 @@
+<div id="footerdivider"></div>
+
+	<div id="footer">
+
+		<div id="footercontent">
+
+		<ul id="footermenu">
+
+			<li><a href="/">Home</a><span class="divider">:</span></li>
+			<li><a href="about.php">About Us</a><span class="divider">:</span></li>
+			<li><a href="physicians.php">Our Physicians</a><span class="divider">:</span></li>
+			<li><a href="practiceareas.php">Practice Areas</a><span class="divider">:</span></li>
+			<li><a href="seeanallergist.php">Why See an Allergist</a><span class="divider">:</span></li>
+			<li><a href="faq.php">FAQ</a><span class="divider">:</span></li>
+			<li><a href="links.php">Helpful Links</a><span class="divider">:</span></li>
+			<li><a href="contact.php">Contact Us</a></li>
+
+		</ul>
+
+		<p>&copy; 2008 Central Texas Allergy &amp; Asthma.  All Rights Reserved.</p>
+
+		</div>
+
+	</div>
